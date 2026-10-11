@@ -12,6 +12,7 @@ import TopicsPage from "./pages/TopicsPage";
 function App() {
   return (
     <div className="bg-bg-dark min-h-screen">
+      
         <Navbar />
 
       <Routes>
